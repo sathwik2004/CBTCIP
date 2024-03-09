@@ -1,2 +1,2 @@
 # CBTCIP
-java proghramming virtual intren 
+java programming virtual intern 
